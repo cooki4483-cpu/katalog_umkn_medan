@@ -33,9 +33,9 @@ deskripsi:"Mie lidi khas Sumatera Utara."
 id:4,
 nama:"Lontong Medan",
 kategori:"Makanan",
-harga:"20000",
+harga:20000,
 stok:3,
-gambar:"https://raw.githubusercontent.com/cooki4483-cpu/katalog_umkm_medan/main/file_000000003980821182ad6839c16a52c6.png",
+gambar:"https://images.unsplash.com/photo-1547592180-86f3b6b8f6c4?w=600",
 deskripsi:"Lontong dengan sayur dan tauco."
 },
 {
@@ -62,8 +62,8 @@ nama:"Es Teh Lemon",
 kategori:"Minuman",
 harga:12000,
 stok:10,
-gambar:"https://raw.githubusercontent.com/cooki4483-cpu/katalog_umkm_medan/main/file_000000004b088207ae19080d1fc7c994.png
-deskripsi:"Minuman segar lemon"
+gambar:"https://images.unsplash.com/photo-1513558161293-cb0e9b3b2d1c?w=600",
+deskripsi:"Minuman segar lemon."
 },
 {
 id:8,
@@ -71,7 +71,7 @@ nama:"Durian Kupas",
 kategori:"Camilan",
 harga:45000,
 stok:4,
-gambar:"https://raw.githubusercontent.com/cooki4483-cpu/katalog_umkm_medan/main/file_00000000e824821189fb1bb1b179df94.png
+gambar:"https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=600",
 deskripsi:"Durian pilihan khas Sumatera."
 }
 ];
