@@ -71,7 +71,7 @@ nama:"Durian Kupas",
 kategori:"Camilan",
 harga:45000,
 stok:4,
-gambar:"https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=600",
+gambar:"https://raw.githubusercontent.com/cooki4483-cpu/katalog_umkm_medan/main/file_00000000e824821189fb1bb1b179df94.png
 deskripsi:"Durian pilihan khas Sumatera."
 }
 ];
