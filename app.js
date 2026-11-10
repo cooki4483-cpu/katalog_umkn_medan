@@ -62,8 +62,8 @@ nama:"Es Teh Lemon",
 kategori:"Minuman",
 harga:12000,
 stok:10,
-gambar:"https://images.unsplash.com/photo-1513558161293-cb0e9b3b2d1c?w=600",
-deskripsi:"Minuman segar lemon."
+gambar:"https://raw.githubusercontent.com/cooki4483-cpu/katalog_umkm_medan/main/file_000000004b088207ae19080d1fc7c994.png
+deskripsi:"Minuman segar lemon"
 },
 {
 id:8,
