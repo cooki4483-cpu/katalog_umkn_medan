@@ -33,9 +33,9 @@ deskripsi:"Mie lidi khas Sumatera Utara."
 id:4,
 nama:"Lontong Medan",
 kategori:"Makanan",
-harga:20000,
+harga:"20000",
 stok:3,
-gambar:"https://images.unsplash.com/photo-1547592180-86f3b6b8f6c4?w=600",
+gambar:"https://raw.githubusercontent.com/cooki4483-cpu/katalog_umkm_medan/main/file_000000003980821182ad6839c16a52c6.png",
 deskripsi:"Lontong dengan sayur dan tauco."
 },
 {
